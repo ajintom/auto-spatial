@@ -1,2 +1,4 @@
 # auto-spatial
 WIP: automatic spatialization 
+
+In music production, particularly mixing, the process of placing sources in a multitrack to achieve spatialization and masking minimization is a challenging optimization problem, mainly because of the complexity of auditory perception. I propose a novel panning system that makes use of multitrack sub-grouping, spectral decomposition, frequency-based spreading and an optimization algorithm to create a well spatialized mix with increased clarity while complying to the best panning practices. I also investigate objectively if this positioning strategy reduces inter-track auditory masking by using the MPEG psychoacoustic model I, extended for multitrack. My subjective and objective tests compares the proposed work with past intelligent panning systems and human mixes.
